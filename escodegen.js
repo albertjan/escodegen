@@ -314,6 +314,7 @@
     }
 
     function endsWithLineTerminator(str) {
+        return false;
         var len = str.length;
         return len && esutils.code.isLineTerminator(str.charCodeAt(len - 1));
     }
@@ -2454,8 +2455,10 @@
                 (isGenerator ? 'function*' : 'function'),
                 (isGenerator ? space : noEmptySpace()),
                 generateIdentifier(stmt.id),
-                generateFunctionBody(stmt)
+                generateFunctionBody(stmt),
+                newline
             ];
+            debugger;
             break;
 
         case Syntax.ReturnStatement:

@@ -1,0 +1,25 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare/bitwise-precedence.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/comment/2-space-multi-comment.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-acorn-es6/exports.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/comment/empty-line-comment.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare/variable-declaration.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-acorn-es6/imports.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/comment/variable-declarator-trailing-comment.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/comment/variable-declarator-multi-comment.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/arrow-function.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare/whitespace-between-functions.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/default-parameter.expected.min.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/arrow-function.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/destructuring-assignment.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/destructuring-assignment.expected.min.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/test.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/destructuring-assignment.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/for-of-statement.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/for-of-statement.expected.min.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/for-of-statement.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/imports.expected.js",
+        "C:/Users/alber_000/Documents/GitHub/escodegen/test/compare-harmony/imports.expected.min.js"
+    ]
+}

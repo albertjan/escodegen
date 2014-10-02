@@ -44,9 +44,13 @@ function test(code, expected) {
     };
 
     tree = esprima.parse(code, options);
-
     // for UNIX text comment
     actual = escodegen.generate(tree).replace(/[\n\r]$/, '') + '\n';
+    console.log("exp: ----");
+    console.log(expected);
+    console.log("---------");
+    console.log(actual);
+    console.log("---------");
     expect(actual).to.be.equal(expected);
 }
 
